@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Java developer interested in many other technologies
-- Second-year student of ITIS KFU
+- Third-year student of ITIS KFU
 - Tutor of computer science and mathematics
 
 [![Gitlab](https://img.shields.io/badge/-gitlab-red?color=black&logo=gitlab&logoColor=orange)](https://gitlab.com/ElizavetaBelskya)
