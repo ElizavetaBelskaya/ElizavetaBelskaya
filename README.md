@@ -3,10 +3,7 @@
 - Third-year student of ITIS KFU
 - Tutor of computer science and mathematics
 
-[![Gitlab](https://img.shields.io/badge/-gitlab-red?color=black&logo=gitlab&logoColor=orange)](https://gitlab.com/ElizavetaBelskya)
-
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=black&logo=telegram&logoColor=blue)](https://t.me/lnsinxdx)
-
+[![Gitlab](https://img.shields.io/badge/-gitlab-red?color=black&logo=gitlab&logoColor=orange)](https://gitlab.com/ElizavetaBelskya) [![Telegram](https://img.shields.io/badge/-telegram-red?color=black&logo=telegram&logoColor=blue)](https://t.me/lnsinxdx)
 
 # 💻 Tech Stack:
 - Java 8/11/17
