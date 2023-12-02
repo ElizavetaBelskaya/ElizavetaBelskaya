@@ -29,4 +29,6 @@
 |                                     | Vue 2, Vue 3                                 |
 |                                     | Axios, fetch API                             |
 | **Другие языки программирования**   | Kotlin, Python, C++ (базовые знания)         |
-| **Мобильная разработка**            | Android разработка                           |
+| **Мобильная разработка**            | Room, Livedata, ViewModel, Coroutines,       |
+|                                     | ViewPager2, Notifications, WorkManager,      | 
+|                                     | SharedPreferences, Glide, Navigation Componet|
