@@ -30,30 +30,30 @@
 <table>
   <tr>
     <td>
-      <img src="https://eng.kpfu.ru/wp-content/themes/kpfu2/images/logo_white_full.svg" alt="KPFU Logo" width="120">
+      <img src="https://elizavetabelskya.github.io/ElizavetaBelskya/kazan-university-logo.png" alt="KPFU Logo" width="120">
     </td>
     <td>
       <strong>Bachelor's Degree – Institute of Information Technologies and Intellectual Systems (ITIS), Kazan Federal University</strong>
       <ul>
         <li>Two-year course in Computer Science and Java Programming</li>
-        <a url="https://github.com/ElizavetaBelskya/1st_Year_Assignments_Java">First year assignments</a> |
-        <a url="https://github.com/ElizavetaBelskya/2nd_Year_Assignments_Java">Second year assignments</a> |
-        <a url="https://github.com/ElizavetaBelskya/IndependentEducationServlets">Java EE semester work</a> |
-        <a url="https://github.com/ElizavetaBelskya/IndependentEducationSpring">Spring Boot semester work</a>
+        <a href="https://github.com/ElizavetaBelskya/1st_Year_Assignments_Java">First year assignments</a> |
+        <a href="https://github.com/ElizavetaBelskya/2nd_Year_Assignments_Java">Second year assignments</a> |
+        <a href="https://github.com/ElizavetaBelskya/IndependentEducationServlets">Java EE semester work</a> |
+        <a href="https://github.com/ElizavetaBelskya/IndependentEducationSpring">Spring Boot semester work</a>
         <li>One-year course in Web Development with Java</li>
-        <a url="https://github.com/ElizavetaBelskya/RuSteamFullstackProject">Fullstack project (Java Spring Boot + Vue)</a> |
-        <a url="https://github.com/ElizavetaBelskya/StorePrime">Tinkoff University summer practise</a>
+        <a href="https://github.com/ElizavetaBelskya/RuSteamFullstackProject">Fullstack project (Java Spring Boot + Vue)</a> |
+        <a href="https://github.com/ElizavetaBelskya/StorePrime">Tinkoff University summer practise</a>
         <li>Mobile (Android) development course</li>
-        <a url="https://github.com/ElizavetaBelskya/itis-kfu-android-course-hometasks/branches">Android Semester tasks</a> |
-        <a url="https://github.com/odnzk/FitTrack">Summer practise mobile app</a>
+        <a href="https://github.com/ElizavetaBelskya/itis-kfu-android-course-hometasks/branches">Android Semester tasks</a> |
+        <a href="https://github.com/odnzk/FitTrack">Summer practise mobile app</a>
         <li>Machine learning course</li>
-        <a url="https://github.com/ElizavetaBelskya/machine-learning-course">ML assignments</a>
+        <a href="https://github.com/ElizavetaBelskya/machine-learning-course">ML assignments</a>
       </ul>
     </td>
   </tr>
     <tr>
     <td>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS29VXHpLYCHXXsDM2PL4QqhoS-kk_AYY4yg&s" alt="Tinkoff Logo" width="120">
+      <img src="https://elizavetabelskya.github.io/ElizavetaBelskya/tinkoff-logo.png" alt="Tinkoff Logo" width="120">
     </td>
     <td>
       <strong>Tinkoff / Tbank Java Development one-year course (Backend Academy)</strong>
@@ -62,13 +62,13 @@
       <li>Programming and design – clean Code, OOP, functional programming, design patterns.</li>
       <li>Databases – relational Model, SQL, ORM, replication, transactions, isolation levels.</li>
       <li>Project management and DevOps – version control, CI/CD, monitoring.</li>
-      <a url="https://github.com/ElizavetaBelskya/backend-academy-course">See homework assignments here</a>
+      <a href="https://github.com/ElizavetaBelskya/backend-academy-course">See homework assignments here</a>
     </ul>
     </td>
   </tr>
     <tr>
     <td>
-      <img src="https://cdn.tbank.ru/static/pages/files/7cd9e15e-2cde-4b6e-b978-ce1f12400b99.png" alt="Tbank Logo" width="120">
+      <img src="https://elizavetabelskya.github.io/ElizavetaBelskya/tbank-logo.png" alt="Tbank Logo" width="120">
     </td>
     <td>
       <strong>Tbank SRE one-year course (Backend Academy)</strong>
