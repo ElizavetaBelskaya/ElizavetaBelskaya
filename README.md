@@ -1,7 +1,7 @@
-
 ### 💻 Java Backend Developer, passionate about lifelong learning
 
-###  About me
+###  About me & my skills
+
 <div>
   <a href="https://elizavetabelskya.github.io/ElizavetaBelskya/Elizaveta_cv.pdf">
     <img src="https://elizavetabelskya.github.io/ElizavetaBelskya/cv.gif" alt="CV PDF" width="100">
@@ -11,21 +11,10 @@
   </a>
 </div>
 
-
+### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/lnsinxdx)
 
-## My skills
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-## Education & projects
+### Education & projects
 
 <table>
   <tr>
