@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме - Елизавета Белская</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #444;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #007bff;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .skills span {
+            display: inline-block;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .skills:nth-of-type(1) span {
+            background-color: #ccffcc;
+        }
+        .skills:nth-of-type(2) span {
+            background-color: #ddffdd;
+        }
+        .skills:nth-of-type(3) span {
+            background-color: #ddddff;
+        }
+        .skills:nth-of-type(4) span {
+            background-color: #fff0b3;
+        }
+        .skills:nth-of-type(5) span {
+            background-color: #ffccff;
+        }
+        .skills:nth-of-type(6) span {
+            background-color: #b3ffff;
+        }
+        .skills:nth-of-type(7) span {
+            background-color: #ffcce6;
+        }
+        .skills:nth-of-type(8) span {
+            background-color: #d9d9d9;
+        }
+        .skills:nth-of-type(9) span {
+            background-color: #ccffcc;
+        }
+        .tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .tabs button {
+            padding: 10px 20px;
+            margin: 0 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            font-size: 16px;
+        }
+        .tabs button.active {
+            background-color: #0056b3;
+        }
+        .content {
+            display: none;
+        }
+        .content.active {
+            display: block;
+        }
+    </style>
+    <script>
+        function switchTab(lang) {
+            const contents = document.querySelectorAll('.content');
+            const buttons = document.querySelectorAll('.tabs button');
+
+            contents.forEach(content => {
+                content.classList.remove('active');
+                if (content.id === lang) {
+                    content.classList.add('active');
+                }
+            });
+
+            buttons.forEach(button => {
+                button.classList.remove('active');
+                if (button.dataset.lang === lang) {
+                    button.classList.add('active');
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="tabs">
+        <button class="active" data-lang="ru" onclick="switchTab('ru')">Русский</button>
+        <button data-lang="en" onclick="switchTab('en')">English</button>
+    </div>
+
+    <div id="ru" class="content active">
+        <h1>Елизавета Белская</h1>
+        <p><strong>Java-разработчик</strong></p>
+        <p>Возраст: 21 год</p>
+        <p>Город: Казань, Иннополис | Формат работы: удаленный, гибрид</p>
+        <p>Готова к релокации</p>
+
+        <div class="contact section">
+            <h4>Контакты</h4>
+            <p>📱 <a href="https://t.me/lnsinxdx">Telegram</a></p>
+            <p>📞 Номер: +7 909 314 43 59</p>
+            <p>✉️ Почта: nefrf@mail.ru</p>
+            <p>🌐 GitHub: <a href="https://github.com/ElizavetaBelskya">ElizavetaBelskya</a></p>
+        </div>
+        <div class="education section">
+            <h2>Образование</h2>
+            <ul>
+                <li><strong><a href = "https://education.tbank.ru/academy/backend/programm/">Академия Бэкенда (Т-Образование)</a></strong> — 2024–2025, SRE</li>
+                <li><strong><a href = "https://education.tbank.ru/academy/backend/programm/">Академия Бэкенда (Тинькофф Образование)</a></strong> — 2023–2024, backend-разработка на Java</li>
+                <li><strong><a href="https://kpfu.ru/itis">ИТИС КФУ, Программная инженерия</a></strong> — 2021–2025, бакалавр</li>
+            </ul>
+        </div>
+
+        <div class="experience section">
+            <h2>Опыт работы</h2>
+            <p><strong>Тинькофф Центр Разработки (ТЦР)</strong> — Java-разработчик</p>
+            <p><a href="https://www.tbank.ru/career/projects/dps/">Департамент Платежных Систем</a>, январь 2024 — настоящее время</p>
+            <ul>
+                <li>Доработка сервиса, выполняющего авторизации для интернет-эквайринга по протоколу 3D-Secure.</li>
+                <li>Разработка highload-систем (сервис по сбору данных из нескольких топиков Kafka в один, 500 rps).</li>
+                <li>Разработка микросервисов Spring Boot, работающих по расписанию (чтение данных из xml-файлов, преобразование, создание таблиц и avro-файлов).</li>
+                <li>Создание метрик, дашбордов в Grafana, алертов для highload-систем.</li>
+                <li>Оптимизация SQL-запросов, миграция запросов с Oracle на PostgreSQL.</li>
+                <li>Разработка UI (backend на Spring Boot, frontend на Angular) для инженеров и служб поддержки.</li>
+                <li>Ручное и автотестирование, подготовка и проведение релизов.</li>
+            </ul>
+        </div>
+
+        <div class="skills section">
+            <h2>Навыки</h2>
+            <div class="skills">
+                <span>Java</span><span>Kotlin</span><span>Python</span>
+            </div>
+            <div class="skills">
+                <span>Spring Boot</span><span>Spring Security</span><span>Maven</span><span>Gradle</span>
+            </div>
+            <div class="skills">
+                <span>AWS S3</span><span>SQL</span><span>PostgreSQL</span><span>Oracle</span>
+                <span>SQL Server</span><span>Redis</span><span>MongoDB</span><span>Liquibase</span>
+            </div>
+            <div class="skills">
+                <span>Docker</span><span>Kubernetes</span><span>ELK</span>
+                <span>Actuator</span><span>Grafana</span><span>Prometheus</span>
+            </div>
+            <div class="skills">
+                <span>GitHub</span><span>Gitlab</span><span>CI/CD</span>
+            </div>
+            <div class="skills">
+                <span>REST</span><span>SOAP</span><span>RPC</span><span>Apache Kafka</span>
+            </div>
+            <div class="skills">
+                <span>JUnit</span><span>Mockito</span><span>Testcontainers</span><span>Postman</span>
+            </div>
+            <div class="skills">
+                <span>HTML</span><span>CSS</span><span>JavaScript</span><span>TypeScript</span><span>Vue</span><span>Angular</span>
+            </div>
+            <div class="skills">
+                <span>Английский язык — уровень B2 (ведение диалогов, чтение документации).</span>
+            </div>
+        </div>
+
+        <div class="addition section">
+            <h3>Дополнительно</h3>
+            <p>Опыт менторства и преподавания математики и программирования <a href="https://kzn.profi.ru/profile/BelskayaEE2/">с 2021 года;</a></p>
+            <p><a href="https://fasie.ru/">Победитель</a> конкурса "Студенческий стартап" Фонда Содействия Инновациям (2024).</p>
+        </div>
+    </div>
+
+    <div id="en" class="content">
+        <h1>Elizaveta Belskaya</h1>
+        <p><strong>Java Developer</strong></p>
+        <p>Age: 21 | City: Kazan, Innopolis | Work Format: office, remote, hybrid | Open to relocation</p>
+
+        <div class="contact section">
+            <h2>Contact</h2>
+            <p>📱 <a href="https://t.me/lnsinxdx">Telegram</a></p>
+            <p>📞 Phone: +7 909 314 43 59</p>
+            <p>✉️ Email: <a href="mailto:nefrf@mail.ru">nefrf@mail.ru</a></p>
+            <p>🌐 GitHub: <a href="https://github.com/ElizavetaBelskya">ElizavetaBelskya</a></p>
+        </div>
+        <div class="education section">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Backend Academy (T-Education, Central University)</strong> — 2023–2024, SRE course</li>
+                <li><strong>Backend Academy (Tinkoff Education, Central University)</strong> — 2023–2024, backend development on Java</li>
+                <li><strong><a href="https://eng.kpfu.ru/">ITIS KFU</a>, Software Engineering</strong> — 2021–2025, Bachelor’s degree</li>
+            </ul>
+        </div>
+
+        <div class="experience section">
+            <h2>Experience</h2>
+            <p><strong><a href="https://tinkoff-group.com/company-info/summary/"> Tinkoff Development Center (TDC)</a></strong> — Java Developer</p>
+            <p>Payment Systems Department, January 2024 — present</p>
+            <ul>
+                <li>Improvement of a service handling 3D-Secure protocol authorization for online acquiring.</li>
+                <li>Development of highload systems (service for collecting data from multiple Kafka topics into one, 500 rps).</li>
+                <li>Development of Spring Boot microservices working on schedule (reading data from XML files, transforming it, and generating unified tables and Avro files).</li>
+                <li>Creating metrics, Grafana dashboards, and alerts for highload systems.</li>
+                <li>Optimizing SQL queries and migrating them from Oracle to PostgreSQL.</li>
+                <li>Developing UI (backend on Spring Boot, frontend on Angular) for SRE and support teams.</li>
+                <li>Manual and automated testing, release preparation.</li>
+            </ul>
+        </div>
+
+        <div class="skills section">
+            <h2>Skills</h2>
+            <div class="skills section">
+                <h2>Навыки</h2>
+                <div class="skills">
+                    <span>Java</span><span>Kotlin</span><span>Python</span>
+                </div>
+                <div class="skills">
+                    <span>Spring Boot</span><span>Spring Security</span>
+                    <span>Maven</span><span>Gradle</span>
+                </div>
+                <div class="skills">
+                    <span>AWS S3</span><span>SQL</span><span>PostgreSQL</span><span>Oracle</span>
+                    <span>SQL Server</span><span>Redis</span><span>MongoDB</span><span>Liquibase</span>
+                </div>
+                <div class="skills">
+                    <span>Docker</span><span>Kubernetes</span><span>ELK</span>
+                    <span>Actuator</span><span>Grafana</span><span>Prometheus</span>
+                </div>
+                <div class="skills">
+                    <span>GitHub</span><span>Gitlab</span><span>CI/CD</span>
+                </div>
+                <div class="skills">
+                    <span>REST</span><span>SOAP</span><span>RPC</span><span>Apache Kafka</span>
+                </div>
+                <div class="skills">
+                    <span>JUnit</span><span>Mockito</span><span>Testcontainers</span><span>Postman</span>
+                </div>
+                <div class="skills">
+                    <span>HTML</span><span>CSS</span><span>JavaScript</span><span>TypeScript</span><span>Vue</span><span>Angular</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
