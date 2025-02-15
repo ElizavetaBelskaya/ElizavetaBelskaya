@@ -1,5 +1,8 @@
 ### 💻 Java Backend Developer, passionate about lifelong learning
 
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/lnsinxdx)
+
 <a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.html">
     <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/website.gif" alt="CV website" width="100">
 </a>
@@ -8,11 +11,7 @@
     <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/cv.gif" alt="CV PDF" width="100">
 </a>
 
-###  About my skills 
-
-# 🚀 Skills & Technologies
-
-# 🚀 Skills & Technologies
+###  About my skills
 
 ## 🎯 Programming Languages
 | ☕ **Java** | 🟣 **Kotlin** | 🐍 **Python** |
@@ -38,13 +37,7 @@
 ## 🌐 Web Development
 | 🌎 **HTML** | 🎨 **CSS** | 📜 **JavaScript** | ⚡ **TypeScript** | 🖼️ **Vue.js** | 🅰️ **Angular** |
 
-
-
-
-### Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/lnsinxdx)
-
-### Education & projects
+## Education & projects
 
 <table>
   <tr>
