@@ -3,29 +3,29 @@
 
 #  About my skills
 
-## 🎯 Programming Languages
-| ☕ **Java** | 🟣 **Kotlin** | 🐍 **Python** |
+🎯 Programming Languages:
+☕ **Java** | 🟣 **Kotlin** | 🐍 **Python** 
 
-## ⚙️ Frameworks & Build Tools
-| 🌿 **Spring Boot** | 🔐 **Spring Security** | 🛠️ **Maven** | 📦 **Gradle** |
+⚙️ Frameworks & Build Tools:
+🌿 **Spring Boot** | 🔐 **Spring Security** | 🛠️ **Maven** | 📦 **Gradle** 
 
-## 🗄️ Databases & Storage
-| ☁️ **AWS S3** | 🛢️ **SQL** | 🏛️ **PostgreSQL** | 🏦 **Oracle** | ⚡ **Redis** | 🗂️ **MongoDB** |
+🗄️ Databases & Storage:
+☁️ **AWS S3** | 🛢️ **SQL** | 🏛️ **PostgreSQL** | 🏦 **Oracle** | ⚡ **Redis** | 🗂️ **MongoDB** 
 
-## 🛠️ DevOps & Monitoring
-| 🐳 **Docker** | ☸️ **Kubernetes** | 📊 **ELK Stack** | 🔍 **Actuator** | 📈 **Grafana** | 🔔 **Prometheus** |
+🛠️ DevOps & Monitoring:
+🐳 **Docker** | ☸️ **Kubernetes** | 📊 **ELK Stack** | 🔍 **Actuator** | 📈 **Grafana** | 🔔 **Prometheus** 
 
-## 🔗 CI/CD & Version Control
-| 🐙 **GitHub** | 🦊 **GitLab** | 🔄 **CI/CD Pipelines** |
+🔗 CI/CD & Version Control:
+🐙 **GitHub** | 🦊 **GitLab** | 🔄 **CI/CD Pipelines**
 
-## 📡 Service Communication
-| 🔌 **REST** | 🛁 **SOAP** | 🎯 **RPC** | 🚀 **Apache Kafka** |
+📡 Service Communication:
+🔌 **REST** | 🛁 **SOAP** | 🎯 **RPC** | 🚀 **Apache Kafka**
 
-## 🧪 Testing & QA
-| ✅ **JUnit** | 🔄 **Mockito** | 🏗️ **Testcontainers** | 🛠️ **Postman** |
+🧪 Testing & QA:
+✅ **JUnit** | 🔄 **Mockito** | 🏗️ **Testcontainers** | 🛠️ **Postman** 
 
-## 🌐 Web Development
-| 🌎 **HTML** | 🎨 **CSS** | 📜 **JavaScript** | ⚡ **TypeScript** | 🖼️ **Vue.js** | 🅰️ **Angular** |
+🌐 Web Development:
+🌎 **HTML** | 🎨 **CSS** | 📜 **JavaScript** | ⚡ **TypeScript** | 🖼️ **Vue.js** | 🅰️ **Angular** 
 
 ## Education & projects
 
