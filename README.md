@@ -1,17 +1,7 @@
-### 💻 Java Backend Developer, passionate about lifelong learning
+## 💻 Java Backend Developer, passionate about lifelong learning. 
+### You can <a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.html"> visit my website (click)</a> or <a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.pdf">read my cv.</a>
 
-### Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/lnsinxdx)
-
-<a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.html">
-    <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/website.gif" alt="CV website" width="100">
-</a>
-
-<a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.pdf">
-    <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/cv.gif" alt="CV PDF" width="100">
-</a>
-
-###  About my skills
+#  About my skills
 
 ## 🎯 Programming Languages
 | ☕ **Java** | 🟣 **Kotlin** | 🐍 **Python** |
