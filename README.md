@@ -1,15 +1,45 @@
 ### 💻 Java Backend Developer, passionate about lifelong learning
 
-###  About me & my skills
-
-<div>
-  <a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.pdf">
-    <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/cv.gif" alt="CV PDF" width="100">
-  </a>
-  <a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.html">
+<a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.html">
     <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/website.gif" alt="CV website" width="100">
-  </a>
-</div>
+</a>
+
+<a href="https://elizavetabelskaya.github.io/ElizavetaBelskaya/Elizaveta_cv.pdf">
+    <img src="https://elizavetabelskaya.github.io/ElizavetaBelskaya/cv.gif" alt="CV PDF" width="100">
+</a>
+
+###  About my skills 
+
+### 🎯 Programming Languages
+☕ **Java** | 🟣 **Kotlin** | 🐍 **Python**
+
+### ⚙️ Frameworks & Build Tools
+🌿 **Spring Boot** | 🔐 **Spring Security** | 🛠️ **Maven** | 📦 **Gradle**
+
+### 🗄️ Databases & Storage
+☁️ **AWS S3** 
+
+🛢️ **SQL** | 🏛️ **PostgreSQL** | 🏦 **Oracle**
+
+⚡ **Redis** | 🗂️ **MongoDB** 
+
+### 🛠️ DevOps & Monitoring
+🐳 **Docker** | ☸️ **Kubernetes** | 📊 **ELK Stack**  
+
+🔍 **Actuator** | 📈 **Grafana** | 🔔 **Prometheus**
+
+### 🔗 CI/CD
+🐙 **GitHub** | 🦊 **GitLab** | 🔄 **CI/CD**
+
+### 📡 Service Communication
+🔌 **REST** | 🛁 **SOAP** | 🎯 **RPC** | 🚀 **Apache Kafka**
+
+### 🧪 Testing
+✅ **JUnit** | 🔄 **Mockito** | 🏗️ **Testcontainers** | 🛠️ **Postman**
+
+### 🌐 Web Development
+🌎 **HTML** | 🎨 **CSS** | 📜 **JavaScript** | ⚡ **TypeScript** | 🖼️ **Vue.js** | 🅰️ **Angular**
+
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/lnsinxdx)
@@ -29,9 +59,9 @@
         <a href="https://github.com/ElizavetaBelskaya/2nd_Year_Assignments_Java">Second year assignments</a> |
         <a href="https://github.com/ElizavetaBelskaya/IndependentEducationServlets">Java EE semester work</a> |
         <a href="https://github.com/ElizavetaBelskaya/IndependentEducationSpring">Spring Boot semester work</a>
-        <li>One-year course in Web Development with Java</li>
+        <li>One-year course Enterprise Java Development</li>
         <a href="https://github.com/ElizavetaBelskaya/RuSteamFullstackProject">Fullstack project (Java Spring Boot + Vue)</a> |
-        <a href="https://github.com/ElizavetaBelskaya/StorePrime">Tinkoff University summer practise</a>
+        <a href="https://github.com/ElizavetaBelskaya/StorePrime">Tinkoff summer practise</a>
         <li>Mobile (Android) development course</li>
         <a href="https://github.com/ElizavetaBelskaya/itis-kfu-android-course-hometasks/branches">Android Semester tasks</a> |
         <a href="https://github.com/odnzk/FitTrack">Summer practise mobile app</a>
@@ -48,9 +78,10 @@
       <strong>Tinkoff / Tbank Java Development one-year course (Backend Academy)</strong>
     <ul>
       <li>Software architecture and development – service-oriented architecture, distributed systems, fault tolerance.</li>
-      <li>Programming and design – clean Code, OOP, functional programming, design patterns.</li>
-      <li>Databases – relational Model, SQL, ORM, replication, transactions, isolation levels.</li>
+      <li>Programming and design – clean code, OOP, functional programming, design patterns.</li>
+      <li>Databases – SQL & NoSQL databases, ORM, replication, transactions, isolation levels.</li>
       <li>Project management and DevOps – version control, CI/CD, monitoring.</li>
+      <li>Technologies - Java, Spring Boot, Postgres, Kafka.</li>  
       <a href="https://github.com/ElizavetaBelskaya/backend-academy-course">See homework assignments here</a>
     </ul>
     </td>
@@ -62,10 +93,10 @@
     <td>
       <strong>Tbank SRE one-year course (Backend Academy)</strong>
     <ul>
-      <li>Core SRE principles – reliability, automation, and error budgets.</li>
+      <li>Core SRE principles – reliability, automation, error budgets.</li>
       <li>Infrastructure and scalability – load balancing, sharding, and efficient resource management.</li>
-      <li>Monitoring and incident Response – observability, alerting, and proactive failure detection.</li>
-      <li>Testing and Continuous improvement – automated testing, chaos engineering, and reliability-driven development.</li>
+      <li>Monitoring and incident response – observability, alerting, proactive failure detection.</li>
+      <li>Docker, Kubernetes, Prometheus, Grafana, ELK-stack, and etc.</li>
     </ul>
     </td>
   </tr>
